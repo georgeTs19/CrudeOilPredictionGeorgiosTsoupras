@@ -1,5 +1,7 @@
 README for CrudeOilPrediction Repository
+
 CrudeOilPrediction - Georgios Tsoupras
+
 This repository contains the source code for my thesis, which focuses on the prediction and analysis
 of crude oil prices using various machine learning techniques such as Random Forest, Gradient
 Boosting, and XGBoost.
